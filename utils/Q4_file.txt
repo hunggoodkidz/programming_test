@@ -1,0 +1,15 @@
+It was the best of times,
+it was the worst of times,
+it was the age of wisdom,
+it was the age of foolishness,
+
+age 3-4
+best 1
+foolishness 4
+it 1-4
+of 1-4
+the 1-4
+times 1-2
+was 1-4
+wisdom 4
+worst 2
